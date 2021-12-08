@@ -1,7 +1,7 @@
 {
-  "name": "Bosco",
+  "name": "⁹⁹⁹MΛƧƬЄƦ࿐",
   "version": "1.0.0",
-  "description": "Gak Ada",
+  "description": "LAKIYA YT",
   "main": "main.js",
   "directories": {
     "lib": "lib"
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node main.js"
   },
-  "author": "Denis",
+  "author": "LAKIII BRO",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "@vitalets/google-translate-api": "^7.0.0",
